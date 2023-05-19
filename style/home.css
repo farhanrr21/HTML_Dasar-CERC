@@ -1,0 +1,15 @@
+p {
+  columns: blue;
+  text-transform: capitalize;
+  text-align: center;
+}
+#navbar {
+  background-color: skyblue;
+}
+#jumbotron {
+  background-color: salmon;
+}
+#footer {
+  background-color: bisque;
+}
+
